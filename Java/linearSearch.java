@@ -1,4 +1,4 @@
-//linear search in java language
+//linear search in java 
 
 
 import java.util.Arrays;
